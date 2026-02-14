@@ -91,22 +91,6 @@ Me chamo Clewerton Rodrigues, tenho 23 anos e moro em Recife, PE. Atualmente, cu
 <br/>
 <br/>
 
-### 📊 Estastísticas
-
- <img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px"
-  src="https://github-readme-stats.vercel.app/api?username=ClewertonRodrigues&show_icons=true&locale=pt-br&theme=tokyonight&include_all_commits=true" 
-/>
-
-<img
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClewertonRodrigues&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-/>
 
 
 
